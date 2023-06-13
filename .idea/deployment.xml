@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="tf2_prac" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="sshConfig://tf2_prac/home/xian/anaconda2/envs/env_for_tf240/bin/python">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_105" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tf2_prac">
+        <serverdata>
+          <mappings>
+            <mapping deploy="nmt-attention-2023" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

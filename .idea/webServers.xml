@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="084795a0-3e6a-4be4-98b0-7dd2ce23e2d6" name="sshConfig://tf2_prac/home/xian/anaconda2/envs/env_for_tf240/bin/python">
+        <fileTransfer accessType="SFTP" host="10.90.185.118" port="22" sshConfigId="e88eb192-3cdf-4187-bf30-a6656723c2b7" sshConfig="tf2_prac" />
+      </webServer>
+    </option>
+  </component>
+</project>
